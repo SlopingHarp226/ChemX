@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "chemx:block/pulverizer_model"},
+    "facing=east": {"model": "chemx:block/pulverizer_model", "y": 90},
+    "facing=south": {"model": "chemx:block/pulverizer_model", "y": 180},
+    "facing=west": {"model": "chemx:block/pulverizer_model", "y": 270}
+  }
+}

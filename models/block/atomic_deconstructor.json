@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "bottom": "chemx:block/atomic_deconstructor_bottom",
+    "particle": "chemx:block/atomic_deconstructor_bottom",
+    "west": "chemx:block/atomic_deconstructor_west",
+    "east": "chemx:block/atomic_deconstructor_east",
+    "south": "chemx:block/atomic_deconstructor_south",
+    "north": "chemx:block/atomic_deconstructor_front",
+    "top": "chemx:block/atomic_deconstructor_top"
+  }
+}

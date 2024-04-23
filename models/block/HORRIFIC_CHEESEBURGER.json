@@ -1,0 +1,26 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "HORRIFIC_CHEESEBURGER_TEXTURE",
+		"particle": "HORRIFIC_CHEESEBURGER_TEXTURE"
+	},
+	"elements": [
+		{
+			"from": [14, 0, 14],
+			"to": [19, 6, 20],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 6], "texture": "#0"},
+				"east": {"uv": [0, 6, 2, 12], "texture": "#0"},
+				"south": {"uv": [4, 6, 8, 12], "texture": "#0"},
+				"west": {"uv": [2, 6, 4, 12], "texture": "#0"},
+				"up": {"uv": [16, 6, 8, 0], "texture": "#0"},
+				"down": {"uv": [16, 0, 8, 6], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [-7.75, 8.25, -6.5]
+		}
+	}
+}

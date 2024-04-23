@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "bottom": "chemx:block/pulverizer_block_bottom_side",
+    "particle": "chemx:block/pulverizer_block_bottom_side",
+    "front": "chemx:block/pulverizer_block_front_side",
+    "side": "chemx:block/pulverizer_block_side",
+    "top": "chemx:block/pulverizer_block_top_side"
+  },
+  "type":"cube","uuid":"4d5b3365-a95f-6d97-189c-31680041e9b8"},
+{"name":"indent_side1","box_uv":false,"rescale":false,"locked":false,"render_order":"default","allow_mirror_modeling":true,"from":[12,12,4],"to":[12,16,12],"autouv":0,"color":8,"origin":[0,0,0],"faces":{"north":{"uv":[0,0,0.5,1]},"east":{"uv":[0,0,2,1]},"south":{"uv":[0,0,0.5,1]},"west":{"uv":[3,3,11,8],"texture":2},"up":{"uv":[3,2,13,4],"texture":2},"down":{"uv":[0,0,0.5,2]}}
+}

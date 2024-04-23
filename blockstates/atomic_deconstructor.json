@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "chemx:block/atomic_deconstructor"},
+    "facing=east": {"model": "chemx:block/atomic_deconstructor", "y": 90},
+    "facing=south": {"model": "chemx:block/atomic_deconstructor", "y": 180},
+    "facing=west": {"model": "chemx:block/atomic_deconstructor", "y": 270}
+  }
+}

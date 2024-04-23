@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "chemx:block/lead_ore"
+    }
+  }
+}
